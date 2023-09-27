@@ -1,0 +1,14 @@
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\bin\Debug\net7.0\Metotlar.exe
+c:\Users\ozge9\Desktop\patikadevkurs\Metotlar\bin\Debug\net7.0\Metotlar.deps.json
+c:\Users\ozge9\Desktop\patikadevkurs\Metotlar\bin\Debug\net7.0\Metotlar.runtimeconfig.json
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\bin\Debug\net7.0\Metotlar.dll
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\bin\Debug\net7.0\Metotlar.pdb
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfo.cs
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.dll
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\refint\Metotlar.dll
+C:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.pdb
+c:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\Metotlar.genruntimeconfig.cache
+c:\Users\ozge9\Desktop\patikadevkurs\Metotlar\obj\Debug\net7.0\ref\Metotlar.dll
